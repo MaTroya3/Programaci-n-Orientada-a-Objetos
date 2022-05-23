@@ -1,2 +1,2 @@
-# Programaci-n-Orientada-a-Objetos
+# Programación-Orientada-a-Objetos
 Repositorio de tareas
