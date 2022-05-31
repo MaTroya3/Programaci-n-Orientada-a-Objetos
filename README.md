@@ -1,2 +1,2 @@
-# Programación-Orientada-a-Objetos
+# TareaPOO
 Repositorio de tareas
